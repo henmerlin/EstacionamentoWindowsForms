@@ -1,12 +1,15 @@
 # EstacionamentoWindowsForms
 
-<b>Descrição:</b>Desenvolvimento do Trabalho Final de C#. 
+<b>Descrição:</b> Desenvolvimento do Trabalho Final de C#. 
 
 <b>Tema:</b> Estacionamento.
 
-Funcionalidades: Gerenciamento de ocupação de vagas, gerenciamento de veículos, gerenciamento de clientes e cobrança.
+<b>Funcionalidades:</b> Gerenciamento de ocupação de vagas, gerenciamento de veículos, gerenciamento de clientes e cobrança.
 
-Desenvolvedores: 
-Henrique Merlin e Paulo Gomes
+<b>Desenvolvedores:</b>
+<ul>
+  <li>Henrique Merlin</li>
+  <li>Paulo Gomes</li>
+</ul>
 
-Professor: Diogo Steinke Deconto.
+<b>Professor:</b> Diogo Steinke Deconto.
